@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20210402T130000Z
+DTEND:20210402T132500Z
+DTSTAMP:20210401T184415Z
+ORGANIZER;CN=edtechhacker@gmail.com:mailto:edtechhacker@gmail.com
+UID:uk846ofr4qdjr824qis1utl93s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=drony061093@gmail.com;X-NUM-GUESTS=0:mailto:drony061093@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=edtechhacker@gmail.com;X-NUM-GUESTS=0:mailto:edtechhacker@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-2057239620
+CREATED:20210401T184412Z
+DESCRIPTION:Event Name: 25 Minute Meeting\n\nTelegram @: 89291040993\n\nNee
+ d to make changes to this event?\nCancel: https://calendly.com/cancellation
+ s/AFYUUTFNRX2Q353Z\nReschedule: https://calendly.com/reschedulings/AFYUUTFN
+ RX2Q353Z\n\nPowered by Calendly.com\n\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nНе редактируйте этот
+  раздел описания.\n\nПросмотрите свое мероприятие на странице https://calen
+ dar.google.com/calendar/event?action=VIEW&eid=dWs4NDZvZnI0cWRqcjgyNHFpczF1d
+ Gw5M3MgZHJvbnkwNjEwOTNAbQ&tok=MjIjZWR0ZWNoaGFja2VyQGdtYWlsLmNvbTYyMGNmZGExY
+ jBkM2UyY2M1Y2Y0NzNlNWJkYzFkYmY3Mzg0YTA2YWI&ctz=Europe%2FMoscow&hl=ru&es=1.\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-
+LAST-MODIFIED:20210401T184413Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Andrey Kovalev and Edtech Hacker
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
